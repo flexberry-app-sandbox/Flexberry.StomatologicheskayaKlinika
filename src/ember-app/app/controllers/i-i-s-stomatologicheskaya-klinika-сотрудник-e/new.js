@@ -1,0 +1,4 @@
+import IISStomatologicheskaya_KlinikaСотрудникEController from '../i-i-s-stomatologicheskaya-klinika-сотрудник-e';
+
+var IISStomatologicheskaya_KlinikaСотрудникENewController = IISStomatologicheskaya_KlinikaСотрудникEController;
+export default IISStomatologicheskaya_KlinikaСотрудникENewController;

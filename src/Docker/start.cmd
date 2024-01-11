@@ -1,0 +1,1 @@
+docker-compose -p stomatologicheskaya_klinika up -d

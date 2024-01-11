@@ -1,0 +1,4 @@
+import IISStomatologicheskaya_KlinikaКабинетEController from '../i-i-s-stomatologicheskaya-klinika-кабинет-e';
+
+var IISStomatologicheskaya_KlinikaКабинетENewController = IISStomatologicheskaya_KlinikaКабинетEController;
+export default IISStomatologicheskaya_KlinikaКабинетENewController;

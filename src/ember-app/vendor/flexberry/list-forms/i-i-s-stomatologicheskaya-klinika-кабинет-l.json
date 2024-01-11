@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-stomatologicheskaya-klinika-кабинет-e",
+  "editForm": "i-i-s-stomatologicheskaya-klinika-кабинет-e",
+  "external": false,
+  "caption": "Кабинет",
+  "name": "IISStomatologicheskaya_KlinikaКабинетL",
+  "className": "КабинетL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-stomatologicheskaya-klinika-кабинет",
+      "modelProjection": "КабинетL"
+    }
+  ]
+}

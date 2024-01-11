@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Клиент",
+  "name": "IISStomatologicheskaya_KlinikaКлиентE",
+  "className": "КлиентE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-stomatologicheskaya-klinika-клиент",
+      "modelProjection": "КлиентE"
+    }
+  ]
+}

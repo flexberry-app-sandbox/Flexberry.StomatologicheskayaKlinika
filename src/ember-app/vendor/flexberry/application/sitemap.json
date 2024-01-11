@@ -1,0 +1,78 @@
+﻿{
+  "applicationCaption": "Stomatologicheskaya_ klinika",
+  "applicationTitle": "Stomatologicheskaya_ klinika",
+  "items": [
+    {
+      "link": null,
+      "menuName": "stomatologicheskaya-klinika",
+      "caption": "Stomatologicheskaya_Klinika",
+      "title": "Stomatologicheskaya_Klinika",
+      "children": [
+        {
+          "link": "i-i-s-stomatologicheskaya-klinika-клиент-l",
+          "menuName": null,
+          "caption": "Клиент",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-stomatologicheskaya-klinika-услуга-l",
+          "menuName": null,
+          "caption": "Услуга",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-stomatologicheskaya-klinika-производитель-l",
+          "menuName": null,
+          "caption": "Производитель",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-stomatologicheskaya-klinika-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-stomatologicheskaya-klinika-сотрудник-l",
+          "menuName": null,
+          "caption": "Сотрудник",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-stomatologicheskaya-klinika-материал-l",
+          "menuName": null,
+          "caption": "Материал",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-stomatologicheskaya-klinika-кабинет-l",
+          "menuName": null,
+          "caption": "Кабинет",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-stomatologicheskaya-klinika-оплата-l",
+          "menuName": null,
+          "caption": "Оплата",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-stomatologicheskaya-klinika-запись-l",
+          "menuName": null,
+          "caption": "Запись",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
