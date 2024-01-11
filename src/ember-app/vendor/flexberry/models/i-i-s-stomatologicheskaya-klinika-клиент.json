@@ -8,8 +8,8 @@
   "attrs": [
     {
       "name": "датаРождения",
-      "type": "number",
-      "flexberryType": "int",
+      "type": "date",
+      "flexberryType": "DateTime",
       "notNull": false,
       "defaultValue": "",
       "stored": true,

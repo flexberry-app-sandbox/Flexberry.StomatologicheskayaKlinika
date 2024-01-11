@@ -17,7 +17,7 @@ CREATE TABLE "Клиент"
 
 	"НомерТелефона" NUMBER(10) NULL,
 
-	"ДатаРождения" NUMBER(10) NULL,
+	"ДатаРождения" DATE NULL,
 
 	 PRIMARY KEY ("primaryKey")
 ) ;

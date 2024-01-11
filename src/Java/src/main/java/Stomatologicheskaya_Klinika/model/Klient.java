@@ -7,6 +7,7 @@ import Stomatologicheskaya_Klinika.utils.UUIDConverter;
 import javax.persistence.*;
 import java.util.UUID;
 
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -38,7 +39,7 @@ public class Klient {
     private Integer номертелефона;
 
     @Column(name = "ДатаРождения")
-    private Integer датарождения;
+    private Date датарождения;
 
     @OneToMany(mappedBy = "klient", fetch = FetchType.LAZY, cascade = CascadeType.REMOVE)
     private List<Dokumenty> dokumentys;
@@ -96,11 +97,11 @@ public class Klient {
       this.номертелефона = номертелефона;
     }
 
-    public Integer getДатаРождения() {
+    public Date getДатаРождения() {
       return датарождения;
     }
 
-    public void setДатаРождения(Integer датарождения) {
+    public void setДатаРождения(Date датарождения) {
       this.датарождения = датарождения;
     }
 

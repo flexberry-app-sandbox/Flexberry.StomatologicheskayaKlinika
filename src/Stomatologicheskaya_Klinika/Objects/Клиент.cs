@@ -57,7 +57,7 @@ namespace IIS.Stomatologicheskaya_Klinika
         
         private int fНомерТелефона;
         
-        private int fДатаРождения;
+        private System.DateTime fДатаРождения;
         
         private IIS.Stomatologicheskaya_Klinika.DetailArrayOfДокументы fДокументы;
         
@@ -72,14 +72,14 @@ namespace IIS.Stomatologicheskaya_Klinika
         // *** Start programmer edit section *** (Клиент.ДатаРождения CustomAttributes)
 
         // *** End programmer edit section *** (Клиент.ДатаРождения CustomAttributes)
-        public virtual int ДатаРождения
+        public virtual System.DateTime ДатаРождения
         {
             get
             {
                 // *** Start programmer edit section *** (Клиент.ДатаРождения Get start)
 
                 // *** End programmer edit section *** (Клиент.ДатаРождения Get start)
-                int result = this.fДатаРождения;
+                System.DateTime result = this.fДатаРождения;
                 // *** Start programmer edit section *** (Клиент.ДатаРождения Get end)
 
                 // *** End programmer edit section *** (Клиент.ДатаРождения Get end)

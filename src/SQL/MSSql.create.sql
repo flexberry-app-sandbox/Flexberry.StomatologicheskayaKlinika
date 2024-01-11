@@ -6,7 +6,7 @@ CREATE TABLE [Клиент] (
 
 	 [primaryKey] UNIQUEIDENTIFIER  NOT NULL,
 
-	 [ДатаРождения] INT  NULL,
+	 [ДатаРождения] DATETIME  NULL,
 
 	 [Имя] VARCHAR(255)  NULL,
 

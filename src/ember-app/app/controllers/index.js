@@ -22,54 +22,54 @@ export default Controller.extend({
             link: 'i-i-s-stomatologicheskaya-klinika-клиент-l',
             caption: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-клиент-l.caption'),
             title: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-клиент-l.title'),
-            icon: 'book',
+            icon: 'file',
             children: null
           }, {
             link: 'i-i-s-stomatologicheskaya-klinika-услуга-l',
             caption: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-услуга-l.caption'),
             title: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-услуга-l.title'),
-            icon: 'suitcase',
+            icon: 'address card',
             children: null
           }, {
             link: 'i-i-s-stomatologicheskaya-klinika-производитель-l',
             caption: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-производитель-l.caption'),
             title: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-производитель-l.title'),
-            icon: 'paperclip',
             children: null
           }, {
             link: 'i-i-s-stomatologicheskaya-klinika-должность-l',
             caption: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-должность-l.caption'),
             title: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-должность-l.title'),
+            icon: 'suitcase',
             children: null
           }, {
             link: 'i-i-s-stomatologicheskaya-klinika-сотрудник-l',
             caption: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-сотрудник-l.caption'),
             title: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-сотрудник-l.title'),
-            icon: 'table',
+            icon: 'chart bar',
             children: null
           }, {
             link: 'i-i-s-stomatologicheskaya-klinika-материал-l',
             caption: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-материал-l.caption'),
             title: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-материал-l.title'),
-            icon: 'tags',
+            icon: 'phone',
             children: null
           }, {
             link: 'i-i-s-stomatologicheskaya-klinika-кабинет-l',
             caption: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-кабинет-l.caption'),
             title: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-кабинет-l.title'),
-            icon: 'edit',
+            icon: 'archive',
             children: null
           }, {
             link: 'i-i-s-stomatologicheskaya-klinika-оплата-l',
             caption: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-оплата-l.caption'),
             title: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-оплата-l.title'),
-            icon: 'chart bar',
+            icon: 'folder open',
             children: null
           }, {
             link: 'i-i-s-stomatologicheskaya-klinika-запись-l',
             caption: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-запись-l.caption'),
             title: i18n.t('forms.application.sitemap.stomatologicheskaya-klinika.i-i-s-stomatologicheskaya-klinika-запись-l.title'),
-            icon: 'briefcase',
+            icon: 'building',
             children: null
           }]
         }

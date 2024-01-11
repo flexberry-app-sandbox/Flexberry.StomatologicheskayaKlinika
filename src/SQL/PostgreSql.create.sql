@@ -10,7 +10,7 @@ CREATE TABLE Клиент (
  Имя VARCHAR(255) NULL,
  Отчество VARCHAR(255) NULL,
  НомерТелефона INT NULL,
- ДатаРождения INT NULL,
+ ДатаРождения TIMESTAMP(3) NULL,
  PRIMARY KEY (primaryKey));
 
 

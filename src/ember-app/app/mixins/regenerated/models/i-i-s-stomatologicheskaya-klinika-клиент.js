@@ -5,7 +5,7 @@ import { validator } from 'ember-cp-validations';
 import { attr, belongsTo, hasMany } from 'ember-flexberry-data/utils/attributes';
 
 export let Model = Mixin.create({
-  датаРождения: DS.attr('number'),
+  датаРождения: DS.attr('date'),
   имя: DS.attr('string'),
   кодКлиента: DS.attr('number'),
   номерТелефона: DS.attr('number'),
@@ -19,7 +19,7 @@ export let ValidationRules = {
     descriptionKey: 'models.i-i-s-stomatologicheskaya-klinika-клиент.validations.датаРождения.__caption__',
     validators: [
       validator('ds-error'),
-      validator('number', { allowString: true, allowBlank: true, integer: true }),
+      validator('date'),
     ],
   },
   имя: {
